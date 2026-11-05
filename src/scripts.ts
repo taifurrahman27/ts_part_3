@@ -11,3 +11,5 @@ import "./polymorphism.js"
 import "./abstract.js"
 
 import "./minidom.js"
+
+import "./utility-types.js"
